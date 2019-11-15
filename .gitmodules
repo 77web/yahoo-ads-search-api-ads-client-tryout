@@ -1,0 +1,3 @@
+[submodule "ads-search-api-documents"]
+	path = ads-search-api-documents
+	url = git@github.com:yahoojp-marketing/ads-search-api-documents.git
