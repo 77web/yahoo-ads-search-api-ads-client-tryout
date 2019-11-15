@@ -1,0 +1,8 @@
+{
+  "gitUserId": "quartetcom",
+  "gitRepoId": "yahoo-ads-search-api-client",
+  "modelPackage": "Model",
+  "apiPackage": "Api",
+  "invokerPackage": "YahooAdsSearchApi\\Client",
+  "packagePath": "YahooAdsSearchApiClient"
+}
